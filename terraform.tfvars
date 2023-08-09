@@ -1,5 +1,5 @@
-access_key = "AKIAQGFZPI6BOJQPTGYO"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 region = "eu-central-1"
 vpc_cidr_block = "10.0.0.0/16"
 pub1_subnet_cidr_block = "10.0.1.0/24"
